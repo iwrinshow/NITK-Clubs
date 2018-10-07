@@ -363,3 +363,10 @@ footer{
 	position: absolute;
 	left:10%;
 }
+.foot2{
+	padding-top: 3%;
+	position:absolute;
+	left:50%;
+	font-family: 'Lobster', cursive;
+	font-size: 25px;
+}
